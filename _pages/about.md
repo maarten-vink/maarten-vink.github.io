@@ -15,6 +15,6 @@ I am currently on leave from Maastricht University where I am a Professor of Pol
 
 Between 2016 and 2021, I led the research project [Migrant Life Course and Legal Status Transition (MiLifeStatus)](https://www.milifestatus.com) funded by a Consolidator Grant of the European Research Council. 
 
-I use this github repository to post code to replicate mainly descriptive exercises playing with data on the global regulation of citizenship (eg from [GLOBALCIT](www.globalcit.eu)) as well on statistics of citizenship acquisition (eg from [Eurostat](https://ec.europa.eu/eurostat)). 
+I use my [github repository](https://github.com/maarten-vink) to post code you can use to replicate mainly descriptive exercises playing with data on the global regulation of citizenship (eg from [GLOBALCIT](www.globalcit.eu)) as well on statistics of citizenship acquisition (eg from [Eurostat](https://ec.europa.eu/eurostat)). 
 
 For replication code of [published research papers](https://scholar.google.pt), see my [dataverse](https://dataverse.harvard.edu/dataverse/mpvink).
