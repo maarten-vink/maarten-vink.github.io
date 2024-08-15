@@ -9,7 +9,7 @@ redirect_from:
 
 I am a political scientist by training and interested in everything related to citizenship. I hold the Chair in Citizenship Studies and direct the Global Citizenship research area within the [Global Governance Programme](https://globalgovernanceprogramme.eui.eu) at the [Robert Schuman Centre for Advanced Studies](https://www.eui.eu/en/academic-units/robert-schuman-centre-for-advanced-studies) at the [European University Institute](www.eui.eu). 
 
-Together with [Rainer Bauböck](https://www.eui.eu/people?id=rainer-baubock), [Jelena Džankić](https://www.eui.eu/people?id=jelena-dzankic) and [Jo Shaw](https://www.law.ed.ac.uk/people/professor-jo-shaw), I co-direct the [Global Citizenship Observatory](www.globalcit.eu), a research network and open access resource committed to fact-based and non-partisan analysis of citizenship laws and electoral rights around the world.
+Together with [Rainer Bauböck](https://www.eui.eu/people?id=rainer-baubock), [Jelena Džankić](https://www.eui.eu/people?id=jelena-dzankic) and [Jo Shaw](https://www.law.ed.ac.uk/people/professor-jo-shaw), I co-direct the [Global Citizenship Observatory (GLOBALCIT)](www.globalcit.eu), a research network and open access resource committed to fact-based and non-partisan analysis of citizenship laws and electoral rights around the world.
 
 I am currently on leave from Maastricht University where I am a Professor of Political Sociology and was one of the founders of the [Maastricht Center for Citizenship, Migration and Development](https://macimide.maastrichtuniversity.nl). 
 
