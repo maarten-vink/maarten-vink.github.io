@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Maarten Vink"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Maarten Vink"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : "I am a political scientist who is interested in everything related to citizenship. I hold the Chair in Citizenship Studies at the European University Institute."
   location         : "Florence"
