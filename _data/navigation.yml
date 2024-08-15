@@ -8,8 +8,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-#  - title: "Code"
-#    url: "https://github.com/maarten-vink"    
+  - title: "Code"
+    url: "https://github.com/maarten-vink"    
 
 #  - title: "Teaching"
 #    url: /teaching/    
