@@ -17,4 +17,4 @@ Between 2016 and 2021, I led the research project [Migrant Life Course and Legal
 
 I use my [github repository](https://github.com/maarten-vink){:target="_blank" rel="noopener"} to post code you can use to replicate mainly descriptive exercises playing with data on the global regulation of citizenship (eg from [GLOBALCIT](www.globalcit.eu){:target="_blank" rel="noopener"}) as well on statistics of citizenship acquisition (eg from [Eurostat](https://ec.europa.eu/eurostat){:target="_blank" rel="noopener"}). 
 
-For replication code of [published research papers](https://scholar.google.pt){:target="_blank" rel="noopener"}, see my [dataverse](https://dataverse.harvard.edu/dataverse/mpvink){:target="_blank" rel="noopener"}.
+For replication code of [published research papers](https://scholar.google.pt/citations?user=TQbMYIMAAAAJ&hl=en){:target="_blank" rel="noopener"}, see my [dataverse](https://dataverse.harvard.edu/dataverse/mpvink){:target="_blank" rel="noopener"}.
