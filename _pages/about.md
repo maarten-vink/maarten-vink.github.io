@@ -11,7 +11,7 @@ I am a political scientist by training and interested in everything related to c
 
 Together with [Rainer Bauböck](https://www.eui.eu/people?id=rainer-baubock){:target="_blank" rel="noopener"}, [Jelena Džankić](https://www.eui.eu/people?id=jelena-dzankic){:target="_blank" rel="noopener"} and [Jo Shaw](https://www.law.ed.ac.uk/people/professor-jo-shaw){:target="_blank" rel="noopener"}, I co-direct the [Global Citizenship Observatory (GLOBALCIT)](https://globalcit.eu){:target="_blank" rel="noopener"}, a research network and open access resource committed to fact-based and non-partisan analysis of citizenship laws and electoral rights around the world.
 
-I am currently on leave from Maastricht University where I am a Professor of Political Sociology and was one of the founders of the [Maastricht Center for Citizenship, Migration and Development](https://macimide.maastrichtuniversity.nl){:target="_blank" rel="noopener"}. 
+Before arriving at the EUI, I was a Professor of Political Sociology at Maastricht University where I was one of the founders of the [Maastricht Center for Citizenship, Migration and Development](https://macimide.maastrichtuniversity.nl){:target="_blank" rel="noopener"}. 
 
 Between 2016 and 2021, I led the research project [Migrant Life Course and Legal Status Transition (MiLifeStatus)](https://www.milifestatus.com){:target="_blank" rel="noopener"} funded by a Consolidator Grant of the European Research Council. 
 
