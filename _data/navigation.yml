@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: "https://scholar.google.pt/citations?user=TQbMYIMAAAAJ&hl=en"
 
   - title: "Code"
     url: "https://github.com/maarten-vink"    
