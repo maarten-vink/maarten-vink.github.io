@@ -22,7 +22,7 @@ repository               : "https://github.com/maarten-vink/maarten-vink.github.
 author:
   # Biographic information
   avatar           : "Vink-picture-1.jpeg"
-  name             : ""
+  name             : "About me"
   pronouns         : # example: "she/her"  
   bio              : "I am a political scientist who is interested in everything related to citizenship. I hold the Chair in Citizenship Studies at the European University Institute."
   location         : "Florence"
