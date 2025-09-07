@@ -1,4 +1,4 @@
-# Hello!
+# About me
 
 I am a political scientist by training and interested in everything related to citizenship. I hold the Chair in Citizenship Studies and direct the Global Citizenship research area within the [Global Governance Programme](https://globalgovernanceprogramme.eui.eu) at the [Robert Schuman Centre for Advanced Studies](https://www.eui.eu/en/academic-units/robert-schuman-centre-for-advanced-studies) at the [European University Institute](www.eui.eu). I am also Co-Director of the [Global Citizenship Observatory](www.globalcit.eu). I am currently on leave from Maastricht University where I am a Professor of Political Sociology and was one of the founders of the [Maastricht Center for Citizenship, Migration and Development](https://macimide.maastrichtuniversity.nl). Between 2016 and 2021, I led the research project [Migrant Life Course and Legal Status Transition (MiLifeStatus)](https://www.milifestatus.com) funded by a Consolidator Grant of the European Research Council. 
 
