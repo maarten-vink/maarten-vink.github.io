@@ -1,10 +1,22 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="refresh" content="0; url=https://substack.com/@maartenpvink">
-    <link rel="canonical" href="https://substack.com/@maartenpvink">
-  </head>
-  <body>
-    <p>Redirecting to <a href="https://substack.com/@maartenpvink">Substack</a>...</p>
-  </body>
-</html>
+---
+layout: archive
+permalink: /year-archive/
+title: ""
+redirect_to: "https://substack.com/@maartenpvink"
+author_profile: true
+redirect_from:
+  - /wordpress/blog-posts/
+---
+On this page I post on where to find data on the regulation of citizenship laws around the world, I give examples of how you can describe and analyse those data.
+I write also on data on citizenship status.
+
+{% include base_path %}
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.posts %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
